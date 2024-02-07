@@ -1,3 +1,7 @@
 버전1
 
+<<<<<<< HEAD
 버전2 -main branch
+=======
+버전2 -dev branchdt
+>>>>>>> Dev
